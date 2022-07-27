@@ -28,5 +28,14 @@
       <description>안녕하시렵니까?</description>
     </item>
     
+    <item>
+      <title>새글 테스트</title>
+      <link>https://Network-Leader.github.io/archetypes/test/</link>
+      <pubDate>Wed, 27 Jul 2022 20:17:25 +0900</pubDate>
+      
+      <guid>https://Network-Leader.github.io/archetypes/test/</guid>
+      <description>안녕하시렵니까?</description>
+    </item>
+    
   </channel>
 </rss>
