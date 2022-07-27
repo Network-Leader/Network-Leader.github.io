@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Archetypes on NL 팀 블로그</title>
+    <title>Archetypes on ExampleSite</title>
     <link>https://Network-Leader.github.io/archetypes/</link>
-    <description>Recent content in Archetypes on NL 팀 블로그</description>
+    <description>Recent content in Archetypes on ExampleSite</description>
     <image>
       <url>https://Network-Leader.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://Network-Leader.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -16,7 +16,7 @@
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://Network-Leader.github.io/archetypes/test/</guid>
-      <description>###텍스트 체크   하나둘셋   ##텍스트 체크   하나둘셋</description>
+      <description>Desc Text.</description>
     </item>
     
   </channel>
