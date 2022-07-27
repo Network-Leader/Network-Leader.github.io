@@ -9,23 +9,14 @@
       <link>https://Network-Leader.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 27 Jul 2022 19:57:00 +0900</lastBuildDate><atom:link href="https://Network-Leader.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jul 2022 20:17:25 +0900</lastBuildDate><atom:link href="https://Network-Leader.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>뉴딜의 싱글벙글 블로그 대탐험</title>
-      <link>https://Network-Leader.github.io/archetypes/post/</link>
-      <pubDate>Wed, 27 Jul 2022 19:57:00 +0900</pubDate>
+      <title>블로그 세팅하기</title>
+      <link>https://Network-Leader.github.io/archetypes/newdeal/</link>
+      <pubDate>Wed, 27 Jul 2022 20:17:25 +0900</pubDate>
       
-      <guid>https://Network-Leader.github.io/archetypes/post/</guid>
-      <description>설명이 들어갈 칸입니다.</description>
-    </item>
-    
-    <item>
-      <title>첫번째 포스팅</title>
-      <link>https://Network-Leader.github.io/archetypes/test/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://Network-Leader.github.io/archetypes/test/</guid>
-      <description>설명이 들어갈 칸입니다.</description>
+      <guid>https://Network-Leader.github.io/archetypes/newdeal/</guid>
+      <description>안녕하시렵니까?</description>
     </item>
     
   </channel>
