@@ -8,43 +8,6 @@
       <url>https://Network-Leader.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://Network-Leader.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 29 Jul 2022 14:09:26 +0900</lastBuildDate><atom:link href="https://Network-Leader.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AWS</title>
-      <link>https://Network-Leader.github.io/tags/aws/</link>
-      <pubDate>Fri, 29 Jul 2022 14:09:26 +0900</pubDate>
-      
-      <guid>https://Network-Leader.github.io/tags/aws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DevOps</title>
-      <link>https://Network-Leader.github.io/tags/devops/</link>
-      <pubDate>Fri, 29 Jul 2022 14:09:26 +0900</pubDate>
-      
-      <guid>https://Network-Leader.github.io/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>newdeal</title>
-      <link>https://Network-Leader.github.io/tags/newdeal/</link>
-      <pubDate>Fri, 29 Jul 2022 14:09:26 +0900</pubDate>
-      
-      <guid>https://Network-Leader.github.io/tags/newdeal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>first</title>
-      <link>https://Network-Leader.github.io/tags/first/</link>
-      <pubDate>Thu, 28 Jul 2022 22:04:57 +0900</pubDate>
-      
-      <guid>https://Network-Leader.github.io/tags/first/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://Network-Leader.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
