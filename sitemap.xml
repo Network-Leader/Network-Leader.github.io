@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Network-Leader.github.io/tags/first/</loc>
-    <lastmod>2022-07-28T22:04:57+09:00</lastmod>
+    <loc>https://Network-Leader.github.io/tags/aws/</loc>
+    <lastmod>2022-07-29T14:09:26+09:00</lastmod>
+  </url><url>
+    <loc>https://Network-Leader.github.io/tags/devops/</loc>
+    <lastmod>2022-07-29T14:09:26+09:00</lastmod>
   </url><url>
     <loc>https://Network-Leader.github.io/tags/newdeal/</loc>
-    <lastmod>2022-07-28T22:04:57+09:00</lastmod>
+    <lastmod>2022-07-29T14:09:26+09:00</lastmod>
   </url><url>
     <loc>https://Network-Leader.github.io/</loc>
-    <lastmod>2022-07-28T22:04:57+09:00</lastmod>
+    <lastmod>2022-07-29T14:09:26+09:00</lastmod>
   </url><url>
     <loc>https://Network-Leader.github.io/posts/</loc>
-    <lastmod>2022-07-28T22:04:57+09:00</lastmod>
+    <lastmod>2022-07-29T14:09:26+09:00</lastmod>
   </url><url>
     <loc>https://Network-Leader.github.io/tags/</loc>
+    <lastmod>2022-07-29T14:09:26+09:00</lastmod>
+  </url><url>
+    <loc>https://Network-Leader.github.io/posts/newdeal/</loc>
+    <lastmod>2022-07-29T14:09:26+09:00</lastmod>
+  </url><url>
+    <loc>https://Network-Leader.github.io/tags/first/</loc>
     <lastmod>2022-07-28T22:04:57+09:00</lastmod>
   </url><url>
     <loc>https://Network-Leader.github.io/posts/testfold2/testnew22/</loc>

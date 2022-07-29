@@ -9,7 +9,16 @@
       <link>https://Network-Leader.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 Jul 2022 22:04:57 +0900</lastBuildDate><atom:link href="https://Network-Leader.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jul 2022 14:09:26 +0900</lastBuildDate><atom:link href="https://Network-Leader.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>게시글의 제목</title>
+      <link>https://Network-Leader.github.io/posts/newdeal/</link>
+      <pubDate>Fri, 29 Jul 2022 14:09:26 +0900</pubDate>
+      
+      <guid>https://Network-Leader.github.io/posts/newdeal/</guid>
+      <description>간단한 설명</description>
+    </item>
+    
     <item>
       <title>Testnew22</title>
       <link>https://Network-Leader.github.io/posts/testfold2/testnew22/</link>
