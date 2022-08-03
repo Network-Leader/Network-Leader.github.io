@@ -12,10 +12,10 @@
     <lastBuildDate>Fri, 29 Jul 2022 16:38:49 +0900</lastBuildDate><atom:link href="https://Network-Leader.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NL DevOps팀의 첫 AWS 인프라 설계기</title>
-      <link>https://Network-Leader.github.io/devops/1/</link>
+      <link>https://Network-Leader.github.io/posts/devops/</link>
       <pubDate>Fri, 29 Jul 2022 16:38:49 +0900</pubDate>
       
-      <guid>https://Network-Leader.github.io/devops/1/</guid>
+      <guid>https://Network-Leader.github.io/posts/devops/</guid>
       <description>NL 동아리의 홈페이지의 견고하고 안전한 클라우드 인프라를 위해 설계하고 개발한 내용들을 공유해드려요. </description>
     </item>
     
