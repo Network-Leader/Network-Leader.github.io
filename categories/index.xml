@@ -1,30 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on NL 팀 블로그</title>
+    <title>Categories on 👨‍💻 NL 팀 블로그</title>
     <link>https://Network-Leader.github.io/categories/</link>
-    <description>Recent content in Categories on NL 팀 블로그</description>
+    <description>Recent content in Categories on 👨‍💻 NL 팀 블로그</description>
     <image>
       <url>https://Network-Leader.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://Network-Leader.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Aug 2022 23:52:29 +0900</lastBuildDate><atom:link href="https://Network-Leader.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jul 2022 16:38:49 +0900</lastBuildDate><atom:link href="https://Network-Leader.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DevOps</title>
       <link>https://Network-Leader.github.io/categories/devops/</link>
-      <pubDate>Tue, 02 Aug 2022 23:52:29 +0900</pubDate>
+      <pubDate>Fri, 29 Jul 2022 16:38:49 +0900</pubDate>
       
       <guid>https://Network-Leader.github.io/categories/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test Post</title>
-      <link>https://Network-Leader.github.io/categories/test-post/</link>
-      <pubDate>Wed, 27 Jul 2022 20:17:25 +0900</pubDate>
-      
-      <guid>https://Network-Leader.github.io/categories/test-post/</guid>
       <description></description>
     </item>
     

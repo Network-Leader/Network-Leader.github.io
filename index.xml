@@ -1,38 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>NL 팀 블로그</title>
+    <title>👨‍💻 NL 팀 블로그</title>
     <link>https://Network-Leader.github.io/</link>
-    <description>Recent content on NL 팀 블로그</description>
+    <description>Recent content on 👨‍💻 NL 팀 블로그</description>
     <image>
       <url>https://Network-Leader.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://Network-Leader.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 Aug 2022 15:19:37 +0900</lastBuildDate><atom:link href="https://Network-Leader.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>NL DevOps팀의 첫 AWS 인프라 설계기</title>
-      <link>https://Network-Leader.github.io/posts/2022-08-05-nl-devops%ED%8C%80%EC%9D%98-%EC%B2%AB-aws-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%84%A4%EA%B3%84%EA%B8%B0/</link>
-      <pubDate>Fri, 05 Aug 2022 15:19:37 +0900</pubDate>
-      
-      <guid>https://Network-Leader.github.io/posts/2022-08-05-nl-devops%ED%8C%80%EC%9D%98-%EC%B2%AB-aws-%EC%9D%B8%ED%94%84%EB%9D%BC-%EC%84%A4%EA%B3%84%EA%B8%B0/</guid>
-      <description>안녕하세요. NL 동아리 홈페이지 제작 프로젝트에서 DevOps 및 AWS 인프라 설계, 개발을 맡고 있는 DevOps팀이에요. 저희 팀 블로그의 첫 포스팅으로 저희 DevOps팀의 첫 AWS 인프라 설계하는 과정을 설명해드리려 해요. 클라우드 인프라 설계는 간단하게 진행하면 별 것 아닐 수도 있지만, 클라우드 서비스 하나하나 깊게 파고 적용시킬수록 가용성, 보안성을 높이고 비용 효율적으로 인프라를 고도화 시킬 수도 있습니다. 저희 팀에서 AWS를 사용해 웹 서비스의 인프라를 어떻게 설계하고 개발했는지, 차근차근 설명해 드릴게요.
-AWS IAM 유저 생성 및 권한 가장 먼저 AWS 인프라를 개발할 때 필요한 절차는 무엇일까요?</description>
-    </item>
-    
-    <item>
-      <title>0729 DevOps 회의</title>
-      <link>https://Network-Leader.github.io/posts/2022-08-02-0729-devops-%ED%9A%8C%EC%9D%98/</link>
-      <pubDate>Tue, 02 Aug 2022 23:52:29 +0900</pubDate>
-      
-      <guid>https://Network-Leader.github.io/posts/2022-08-02-0729-devops-%ED%9A%8C%EC%9D%98/</guid>
-      <description>날짜: 2022년 7월 29일
-수행내용 이번 주에는, Route 53, ELB(Elastic Load Balancer) 그리고 대상 그룹 설정에 대해 공부하였습니다. 먼저, 도메인 이름을 등록해보기로 결정했습니다. 이를 위해 AWS Route 53 서비스를 사용했습니다.
-Route 53이란, 높은 가용성과 확장성이 뛰어난 클라우드 Domain Name System (DNS) 웹 서비스입니다. 이 서비스에서는 www.network-leader.com과 같은 이름을 192.0.2.1과 같은 컴퓨터 간 연결에 사용되는 숫자 IP 주소로 변환해줍니다.
-이를 위해, 먼저 www.network-leader.com 이름의 domain을 AWS에서 구매했습니다.
-AWS console &amp;gt; Route 53 &amp;gt; Domains &amp;gt; Register Domain 클릭 등록하고자 하는 domain 이름을 선택하고, 결제에 필요한 domain 구매자의 개인 정보(연락처, e-mail) 등을 입력 후 [Complete Purchase] 를 눌러서 도메인 등록 수수료를 결제 결제 이후, domain 구매시 등록한 e-mail로 구매 내역을 받을 수 있으며, AWS 내에서는 아래와 같이 확인하였습니다.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 29 Jul 2022 16:38:49 +0900</lastBuildDate><atom:link href="https://Network-Leader.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NL DevOps팀의 첫 AWS 인프라 설계기</title>
       <link>https://Network-Leader.github.io/posts/devops/</link>
@@ -40,15 +17,6 @@ AWS console &amp;gt; Route 53 &amp;gt; Domains &amp;gt; Register Domain 클릭 �
       
       <guid>https://Network-Leader.github.io/posts/devops/</guid>
       <description>NL 동아리의 홈페이지의 견고하고 안전한 클라우드 인프라를 위해 설계하고 개발한 내용들을 공유해드려요. </description>
-    </item>
-    
-    <item>
-      <title>블로그 세팅하기</title>
-      <link>https://Network-Leader.github.io/posts/newdeal/</link>
-      <pubDate>Wed, 27 Jul 2022 20:17:25 +0900</pubDate>
-      
-      <guid>https://Network-Leader.github.io/posts/newdeal/</guid>
-      <description>안녕하시렵니까?</description>
     </item>
     
   </channel>
